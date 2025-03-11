@@ -1,13 +1,17 @@
 <div align="center">
 
-# Wonhee Youn
+### Wonhee Youn
+
 <a href="https://youn12.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=Tistory&logoColor=white" alt="Tech-Blog"/></a>
 <a href="mailto:wony9324@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 
+</div>
+
 ---
 
-<div style="display: flex; width: 100%; height: auto;">
-    <div style="flex: 1; text-align: left;">
+<div>       
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=younwony&show_icons=true&theme=radical" />    
 
 - 구하다 <sub>(2022.02 ~ )</sub>
   - Backend 개발
@@ -15,20 +19,23 @@
   - 판매자 시스템 Backend 개발
 - 한국문헌정보기술(주) <sub>(2018.06 ~ 2021.09)</sub>
   - 솔루션 SI/SM
+
 </div>
-<div style="flex: 1; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=younwony&show_icons=true&theme=radical" />
-</div>
-</div>
+
+</br>
 
 ---
-## Tech Stacks
 
-<div style="display: flex; width: 100%; height: auto;">
-    <div style="flex: 1; text-align: center;">
+### Tech Stacks
+
+<div>
+
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wony9324" />
+    
+    
 <!-- 로고 참조 https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 <!-- Backend -->
-
+#### Backend
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
@@ -41,14 +48,14 @@
 
 </p>
 
-<!-- Frontend -->
+#### Frontend
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7dF1E?style=flat-square&logo=javascript&logoColor=white">
 </p>
 
-<!-- Tools -->
+#### Etc.
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
@@ -61,12 +68,8 @@
     
 </p>
 </div>
-<div style="flex: 1; text-align: right;">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wony9324" />
-</div>
-</div>
 
----
+</br>
 
 <!-- Github Status https://github.com/anuraghazra/github-readme-stats -->
 <!-- 깃헙 사용 언어 Status <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younwony&layout=compact " style="margin-right: 10px;"/> -->
