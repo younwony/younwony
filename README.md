@@ -14,11 +14,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=younwony&show_icons=true&theme=radical" />    
 
 - 구하다 <sub>(2022.02 ~ )</sub>
-  - Backend 개발
+  - 명품 커머스 Backend 개발
+  - 뷰티 시딩 시스템 Backend 개발
 - 인터파크 <sub>(2021.09 ~ 2022.01)</sub>
-  - 판매자 시스템 Backend 개발
+  - 커머스 판매자 시스템 Backend 개발
 - 한국문헌정보기술(주) <sub>(2018.06 ~ 2021.09)</sub>
-  - 솔루션 SI/SM
+  - 기록물 관리 시스템 솔루션 SI/SM
 
 </div>
 
