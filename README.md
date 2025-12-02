@@ -11,8 +11,6 @@
 
 <div>       
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=younwony&show_icons=true&theme=radical" />    
-
 - 구하다 <sub>(2022.02 ~ )</sub>
   - 명품 커머스 Backend 개발
   - 뷰티 시딩 시스템 Backend 개발
