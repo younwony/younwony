@@ -93,7 +93,7 @@ Zero Ops 달성     | 운영 반복 업무 40% → 0% 완전 자동화 (ChatOps)
 | **Commerce Domain** | 커머스 핵심 도메인(상품/가격/주문) 비즈니스 로직 설계 및 운영 |
 | **Data Pipeline** | 200만 건 이상 이기종 데이터 수집/정제/적재(ETL) 파이프라인 구축 |
 | **Performance** | 대용량 처리를 위한 병렬 아키텍처 설계 및 성능 최적화 |
-| **Zero Ops** | ChatOps, 리포팅 자동화 등 운영 프로세스 100% 자동화 |
+| **Zero Ops** | ChatOps, 리포팅 자동화 등 운영 프로세스 자동화 |
 | **AI-Assisted Dev** | Claude Code 활용 개발 생산성 향상 |
 
 ---
