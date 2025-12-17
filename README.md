@@ -98,10 +98,10 @@ Zero Ops 달성     | 운영 반복 업무 40% → 0% 완전 자동화 (ChatOps)
 
 ---
 
-## Stats
+## Algorithm
 
 <div align="center">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wony9324"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wony9324)](https://solved.ac/wony9324)
 
 </div>
