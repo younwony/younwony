@@ -16,12 +16,13 @@
 
 ## About Me
 
-Java/Spring 기반 7년차 백엔드 개발자로서 **커머스 도메인**(상품/주문/가격)의 복잡한 비즈니스 로직을 전문적으로 다뤄왔습니다.
+Java/Spring 기반 7년차 백엔드 개발자로서 **커머스 도메인**(상품/주문/가격)의 복잡한 비즈니스 로직을 전문적으로 다뤄왔습니다. 현재는 인플루언서 마케팅 솔루션 **'Seeding'** 프로젝트를 리딩하며, 200만 인플루언서 데이터 플랫폼을 구축하여 새로운 비즈니스 성장에 기여하고 있습니다.
 
 ```
+검색 성능 10배    | 200만 건 Elasticsearch 파이프라인 (10초+ → 1초 이내)
 Zero Ops 달성     | 운영 반복 업무 40% → 0% 완전 자동화 (ChatOps)
-검색 성능 100배   | 200만 건 데이터 파이프라인 구축 (10초 → 0.1초)
-매출 10% 상승     | 네이버 쇼핑 Dynamic Pricing 시스템 고도화
+매출 10% 상승     | MD팀 협업 기반 Dynamic Pricing 시스템
+생산성 90% 향상   | Claude Code + MCP 활용 개발/문서화 자동화
 ```
 
 ---
@@ -71,13 +72,19 @@ Zero Ops 달성     | 운영 반복 업무 40% → 0% 완전 자동화 (ChatOps)
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">
 </p>
 
+### AI & Automation
+<p>
+<img src="https://img.shields.io/badge/Claude_Code-CC9B7A?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white">
+</p>
+
 ### Tools
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/Claude_Code-CC9B7A?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white">
 </p>
 
 </td>
@@ -90,11 +97,14 @@ Zero Ops 달성     | 운영 반복 업무 40% → 0% 완전 자동화 (ChatOps)
 
 | | |
 |:---:|:---|
-| **Commerce Domain** | 커머스 핵심 도메인(상품/가격/주문) 비즈니스 로직 설계 및 운영 |
-| **Data Pipeline** | 200만 건 이상 이기종 데이터 수집/정제/적재(ETL) 파이프라인 구축 |
-| **Performance** | 대용량 처리를 위한 병렬 아키텍처 설계 및 성능 최적화 |
-| **Zero Ops** | ChatOps, 리포팅 자동화 등 운영 프로세스 자동화 |
-| **AI-Assisted Dev** | Claude Code 활용 개발 생산성 향상 |
+| **Commerce Domain** | 커머스 핵심 도메인(상품·가격·주문) 비즈니스 로직 설계 및 운영 |
+| **Data Pipeline** | 200만 건 이상 이기종 데이터 수집·정제·적재(ETL) 파이프라인 구축 |
+| **Architecture & Performance** | 대용량 처리를 위한 병렬 아키텍처 설계 및 성능 최적화 |
+| **Zero Ops & Automation** | ChatOps, 리포팅 자동화 등 운영 프로세스 100% 자동화 |
+| **Reliability Engineering** | 서버 리소스 모니터링, Slow Query 분석 체계로 서비스 안정성 확보 |
+| **Quality & Testing** | TDD 기반 개발, 코드 리뷰 문화 정착으로 코드 품질 향상 |
+| **Cross-functional Leadership** | 요구사항 분석부터 유관 부서 협업까지 프로젝트 전 과정 리딩 |
+| **AI-Assisted Development** | Claude Code + MCP 활용으로 개발 생산성 향상 |
 
 ---
 
