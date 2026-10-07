@@ -46,7 +46,6 @@ Java/Spring 기반 9년차 백엔드 개발자입니다. 커머스 플랫폼에�
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white">
 </p>
 
